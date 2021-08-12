@@ -1,4 +1,4 @@
-# 一个用基于 webpack 项目后自动上传 ftp 服务器的 plugin
+# 一个用基于 webpack 项目打包后自动上传 ftp 服务器的 plugin
 
 ## 使用方法
 
